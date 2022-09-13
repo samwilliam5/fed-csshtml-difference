@@ -1,0 +1,8 @@
+.noneHidden h3{
+    display: none;
+
+}
+.noneHidden h4{
+    visibility: hidden;
+
+}
